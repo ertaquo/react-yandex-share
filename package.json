@@ -1,8 +1,8 @@
 {
   "name": "react-yandex-share",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "",
-  "main": "build/index.js",
+  "main": "lib/ReactYandexShare.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/ertaquo/react-yandex-share.git"
@@ -11,6 +11,14 @@
     "name": "Vladimir Osokin"
   },
   "license": "ISC",
+  "keywords": [
+    "react",
+    "react-component",
+    "social",
+    "share",
+    "yandex",
+    "yandex-share"
+  ],
   "scripts": {
     "build": "webpack"
   },
