@@ -1,6 +1,6 @@
 {
   "name": "react-yandex-share",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "",
   "main": "lib/ReactYandexShare.js",
   "repository": {
@@ -35,10 +35,10 @@
     "babel-preset-stage-0": "^6.24.1",
     "path": "^0.12.7",
     "prop-types": "^15.6.0",
-    "react": "^16.0.0",
-    "react-dom": "^16.0.0",
-    "webpack": "^4.39.1",
-    "webpack-cli": "^3.3.6"
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
   },
   "dependencies": {
     "lodash": "^4.17.15"
